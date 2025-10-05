@@ -23,3 +23,4 @@
   // A command to run after the container is created.
   "postCreateCommand": "uv pip install fastapi"
 }
+
